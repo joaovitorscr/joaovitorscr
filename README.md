@@ -1,5 +1,9 @@
-<h1 align="center">Olá, meu nome é João Vitor<h1>
-
+![MasterHead](https://acegif.com/wp-content/uploads/gif/outerspace-6.gif)
+<div align="center">
+  <h1 align="center">Olá, meu nome é João Vitor<h1>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+</div> 
+    
 <div align="center">
   <a href="https://github.com/joaovitorscr">
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=joaovitorscr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
