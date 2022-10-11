@@ -1,6 +1,6 @@
-![MasterHead](https://acegif.com/wp-content/uploads/gif/outerspace-6.gif)
+![MasterHead](https://acegif.com/wp-content/uploads/gifs/starfall-gif-46.gif)
 <div align="center">
-  <h1 align="center">Olá, meu nome é João Vitor<h1>
+  <h1 align="center">Welcome!<h1>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div> 
     
