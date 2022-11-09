@@ -17,6 +17,6 @@
 </div>
 
 <div align="center">
-  <h3>⬇️ Contact me ⬇️</h3>
-  <a href="mailto:contato.joaovitorscr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <h2>⬇️ Contact me ⬇️</h2>
+  <h3>contato.joaovitorscr@gmail.com</h3>
 </div>
