@@ -18,5 +18,5 @@
 
 <div align="center">
   <h2>⬇️ Contact me ⬇️</h2>
-  <h3>contato@joaovitorscr.com</h3>
+  <h3>contato.joaovitorscr@gmail.com</h3>
 </div>
