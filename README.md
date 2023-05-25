@@ -1,7 +1,6 @@
 ![MasterHead](https://gifs.eco.br/wp-content/uploads/2022/06/gifs-vaporwave-5.gif)
 <div align="center">
   <h1 align="center">Welcome!<h1>
-  <a href="https://joaovitorscr.com" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div> 
     
 <div align="center">
