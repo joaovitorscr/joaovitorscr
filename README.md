@@ -14,17 +14,17 @@
 
 I'm a front-end developer who loves tech and learning stuff related to it. Started in development at the end of 2022 and looking forward to become a full-stack developer. I love working witch React and Tailwind, as you can see by my projects, but I'm always open to work with different technologies like Angular.
 
-<div align="center" style="display: inline_block">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
+#
+
+[![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)](https://262.ecma-international.org/6.0/)
+[![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://custom-icon-badges.demolab.com/badge/-Next.js-1e1e1e?style=for-the-badge&logo=nextjs&logoColor=white)](https://nextjs.org/)
+[![Angular](https://custom-icon-badges.demolab.com/badge/-Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
+[![TailwindCSS](https://custom-icon-badges.demolab.com/badge/-TailwindCSS-0b1120?style=for-the-badge&logo=tailwind&logoColor=white)](https://tailwindcss.com/)
+[![SASS](https://custom-icon-badges.demolab.com/badge/-SASS-cf649a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Ubuntu](https://custom-icon-badges.demolab.com/badge/-Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)]([https://sass-lang.com/](https://ubuntu.com/download))
 
 #
 
@@ -36,9 +36,6 @@ I'm a front-end developer who loves tech and learning stuff related to it. Start
       <img width="278" src="https://github-readme-stats-nine-virid-62.vercel.app/api/pin/?username=joaovitorscr&repo=breakdance-hotel-landingpage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="EasyCheckBox">
     </a>
 </p>
-
-
-
 
 <details>
   <summary><h3>🎉 Stats</h3></summary>
@@ -53,7 +50,7 @@ I'm a front-end developer who loves tech and learning stuff related to it. Start
 <details>
   <summary><h3>👨‍💻 My coding journey</h3></summary>
   <div>
-    Started with front-end development in 2022 and looking forward to become a full stack developer.
+    Started with front-end development at the end of 2022, falled in love with React and libraries like bootstrap and chakra UI. My main goal is to become a full-stack developer, I'm currently learning about node.js, frameworks like express and nest, relational databases and GoLang. I hope in the future be able to create projects who will help people in a daily bases.
   </div>
 </details>
 
