@@ -30,10 +30,10 @@ I'm a front-end developer who loves tech and learning stuff related to it. Start
 
 <p align="center">
     <a href="https://github.com/joaovitorscr/easycheckbox">
-      <img width="278" src="https://github-readme-stats-nine-virid-62.vercel.app/api/pin/?username=joaovitorscr&repo=easycheckbox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="EasyCheckBox">
+      <img width="278" src="https://github-readme-stats-nine-virid-62.vercel.app/api/pin/?username=joaovitorscr&repo=easycheckbox&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="EasyCheckBox">
     </a>
     <a href="https://github.com/joaovitorscr/breakdance-hotel-landingpage">
-      <img width="278" src="https://github-readme-stats-nine-virid-62.vercel.app/api/pin/?username=joaovitorscr&repo=breakdance-hotel-landingpage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="EasyCheckBox">
+      <img width="278" src="https://github-readme-stats-nine-virid-62.vercel.app/api/pin/?username=joaovitorscr&repo=breakdance-hotel-landingpage&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Break Dance Hotel">
     </a>
 </p>
 
