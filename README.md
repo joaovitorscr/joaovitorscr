@@ -16,7 +16,6 @@ I'm a front-end developer who loves tech and learning stuff related to it. Start
 
 #
 
-[![JavaScript](https://custom-icon-badges.demolab.com/badge/-JavaScript-f0db4f?style=for-the-badge&logo=javascript&logoColor=white)](https://262.ecma-international.org/6.0/)
 [![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
