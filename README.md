@@ -25,6 +25,7 @@ I'm a front-end developer who loves tech and learning stuff related to it. Start
 [![SASS](https://custom-icon-badges.demolab.com/badge/-SASS-cf649a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Ubuntu](https://custom-icon-badges.demolab.com/badge/-Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)]([https://sass-lang.com/](https://ubuntu.com/download))
 
+<!--
 ## Repositories
 
 <p align="center">
@@ -42,4 +43,5 @@ I'm a front-end developer who loves tech and learning stuff related to it. Start
       <img width="278" src="https://readme-stats-nine-sigma.vercel.app/api/pin/?username=joaovitorscr&repo=vite-react-template&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" alt="EasyCheckBox">
     </a>
 </div>
+!-->
 
