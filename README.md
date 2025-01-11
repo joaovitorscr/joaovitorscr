@@ -43,21 +43,3 @@ I'm a front-end developer who loves tech and learning stuff related to it. Start
     </a>
 </div>
 
-
-<details>
-  <summary><h3>🎉 Stats</h3></summary>
-  <div align="center">
-    <a href="https://github.com/joaovitorscr">
-      <img height="180em" src="https://readme-stats-nine-sigma.vercel.app/api?username=joaovitorscr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-      <img height="180em" src="https://readme-stats-nine-sigma.vercel.app/api/top-langs/?username=joaovitorscr&layout=compact&langs_count=7&theme=dracula"/>
-    </a>
-  </div>
-</details>    
-
-<details>
-  <summary><h3>👨‍💻 My coding journey</h3></summary>
-  <div>
-    Started with front-end development at the end of 2022, falled in love with React and libraries like bootstrap and chakra UI. My main goal is to become a full-stack developer, I'm currently learning about node.js, frameworks like express and nest, relational databases and GoLang. I hope in the future be able to create projects who will help people in a daily bases.
-  </div>
-</details>
-
