@@ -10,18 +10,20 @@
   </a>
 </p>
 
-Just a frontend developer who loves teach and is trying to make cool stuff.
+<p align="center">
+  Just a frontend developer who loves teach and wanna build cool stuff.
+</p>
 
 #
 
-[![Node.js](https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TypeScript](https://custom-icon-badges.demolab.com/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![React](https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Next.js](https://custom-icon-badges.demolab.com/badge/-Next.js-1e1e1e?style=for-the-badge&logo=nextjs&logoColor=white)](https://nextjs.org/)
-[![Angular](https://custom-icon-badges.demolab.com/badge/-Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-[![TailwindCSS](https://custom-icon-badges.demolab.com/badge/-TailwindCSS-0b1120?style=for-the-badge&logo=tailwind&logoColor=white)](https://tailwindcss.com/)
-[![SASS](https://custom-icon-badges.demolab.com/badge/-SASS-cf649a?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Ubuntu](https://custom-icon-badges.demolab.com/badge/-Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white)]([https://sass-lang.com/](https://ubuntu.com/download))
+<div align="center">
+  <img src="https://custom-icon-badges.demolab.com/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />  
+  <img src="https://custom-icon-badges.demolab.com/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />  
+  <img src="https://custom-icon-badges.demolab.com/badge/-React-218AAB?style=for-the-badge&logo=react&logoColor=white" alt="React" />  
+  <img src="https://custom-icon-badges.demolab.com/badge/-Next.js-fff?style=for-the-badge&logo=nextjs&logoColor=black" alt="Next.js" />  
+  <img src="https://custom-icon-badges.demolab.com/badge/-Angular-c3002f?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />  
+  <img src="https://custom-icon-badges.demolab.com/badge/-Linux-000?style=for-the-badge&logo=linux&logoColor=white" alt="Node.js" />  
+</div>
 
 <!--
 ## Repositories
