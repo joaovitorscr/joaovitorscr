@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/joaovitorscr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=F76264&center=true&vCenter=true&random=false&width=435&lines=Jo%C3%A3o+Vitor+Santos+Cruz" alt="João Vitor Santos Cruz" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=F76264&center=true&vCenter=true&random=false&width=435&lines=joaovitorscr" alt="joaovitorscr" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F76264FF&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Front-end+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=F76264FF&size=22&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Frontend+Developer" alt="Typing SVG" />
   </a>
 </p>
 
