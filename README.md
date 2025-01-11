@@ -10,7 +10,6 @@
   </a>
 </p>
 
----
 
 I'm a front-end developer who loves tech and learning stuff related to it. Started in development at the end of 2022 and looking forward to become a full-stack developer. I love working witch React and Tailwind, as you can see by my projects, but I'm always open to work with different technologies like Angular.
 
